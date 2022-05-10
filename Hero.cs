@@ -9,8 +9,6 @@ namespace GAME
     class Hero
     {
         public int HP;
-        public int StrongAttack;
-        public int LowAttack;
         public int Damage;
     }
 }
